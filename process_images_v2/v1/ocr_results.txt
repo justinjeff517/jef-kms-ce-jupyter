@@ -1,0 +1,382 @@
+Extracted Text 1:
+EXAMPLE 1 Verification of Solution
+
+Verify that y = c/x (c an arbitrary constant) is a solution of the ODE.ay’ = —y for allx # 0. Indeed, differentiate
+y = e/x to get y’ = —c/x?. Multiply this by x, obtaining xy’ = —c/x; thus, xy’ = —y, the given ODE.
+
+--------------------------------------------------
+Extracted Text 2:
+The given problem verifies that y = £ (where cis an arbitrary constant) is a solution of the differential
+equation:
+
+Step-by-step verification:
+
+1. Differentiate y = £:
+
+dye c
+4-3 (3)--z
+2. Multiply both sides of the derivative by 2:
+2) __6
+a'=2-(-3)=-5
+3. Compare with the given differential equation: The right-hand side of the equation is —y.
+Substituting y = £:
+
+This matches zy’, confirming that y = £ satisfies the equation.
+
+Conclusion:
+
+Since the function satisfies the given differential equation, it is indeed a solution.
+
+--------------------------------------------------
+Extracted Text 3:
+c
+Fa
+
+where c is a constant.
+
+Differentiate y with respect to x:
+
+We use the power rule:
+
+and the fact that:
+1
+iia
+2
+Rewriting y using exponents:
+y=co*
+
+Now, differentiate both sides:
+
+Se) =c-(-1)z2?
+
+--------------------------------------------------
+Extracted Text 4:
+EXAMPLE 2
+
+Solution by Calculus. Solution Curves
+
+The ODE y" = dy/dx = cos x can be solved directly by integration on both sides. Indeed, using calcul
+we obtain y = feos.x dx = sinx + c, where c is an arbitrary constant. This is a family of solutions. Each value
+of c, for instance, 2.75 or 0 or —8, gives one of these curves. Figure 3 shows some of them, for ¢ -2,
+—1,0, 1,2, 3,4. a
+
+3. Solutions y = sin x + c of the ODE y’ = cosx
+
+
+--------------------------------------------------
+Extracted Text 5:
+Explanation of the Solution
+The given ordinary differential equation (ODE) is:
+
+dy
+we
+
+[0- [oe
+
+cos x
+
+To solve this, we integrate both sides:
+
+Step-by-step Solution:
+1. Integrate the right-hand side:
+
+y= [ cosede
+
+y=sint+C
+
+The integral of cos «is:
+
+where C is an arbitrary constant of integration.
+
+--------------------------------------------------
+Extracted Text 6:
+2. Interpretation:
+
+© The general solution of the ODE is y = sina + C.
+
+«This represents a family of solutions, where different values of C’ shift the curve vertically.
+3. Graphical Representation (Solution Curves):
+
+© The graph in Figure 3 shows multiple solution curves corresponding to different values of C,
+such as C = —3, -2,—1,0,1,2,3,4.
+
+* Each curve is a shifted version of sin x, meaning the overall shape remains the same but is
+displaced vertically depending on C.
+Conclusion:
+The differential equation y! = cos a was solved by direct integration.
+* The solution is a family of sine curves, where each curve differs by a constant shift.
+
+© The figure visually represents these solutions for various values of C.
+
+--------------------------------------------------
+Extracted Text 7:
+EXAMPLE 3
+
+(A) Exponential Growth. (B) Exponential Decay
+
+From calculus we know that y = ce??* has the derivative
+
+dy
+
+dt
+
+y' 0.26097 = 0.2y.
+
+Hence y is a solution of y’ = 0.2y (Fig. 4A). This ODE is of the form y’ = ky. With positive-constant k it can
+model exponential growth, for instance, of colonies of bacteria or populations of animals. It also applies to
+humans for small populations in a large country (e.g., the United States in early times) and is then known as
+‘Malthus’s law.? We shall say more about this topic in Sec. 1.5.
+
+(B) Similarly, y! = —0.2 (with a minus on the right) has the solution y = ce~°*!, (Fig. 4B) modeling
+exponential decay, as, for instance, of a radioactive substance (see Example 5). a
+y
+25
+2.0
+15
+1.0
+O5
+0 — er oUt
+oO 2 4 6 8 10 12 14¢ 0 2 4 6 8 lo 12 14¢
+Fig. 4A. Solutions of y’ = 0.2y Fig. 4B. Solutions of y’ = —0.2y
+in Example 3 (exponential growth) in Example 3 (exponential decay)
+
+4Named after the English pioneer in classic economics, THOMAS ROBERT MALTHUS (1766-1834).
+
+--------------------------------------------------
+Extracted Text 8:
+Explanation of Exponential Growth and Decay
+The given differential equation models exponential growth and decay:
+dy
+a
+where k is a constant. The behavior of the solution depends on the sign of k:
+
+(A) Exponential Growth (k > 0)
+© Consider the equation:
+dy
+
+OY
+
+© The general solution is obtained by separation of variables:
+
+y= ceo
+
+where cis an arbitrary constant.
+
+© This describes exponential growth, meaning y increases over time. The larger t becomes, the faster
+y grows.
+
+* Application: This models population growth, bacteria reproduction, and economic growth, where
+the rate of increase is proportional to the current size.
+
+© Graph (Fig. 4): Shows multiple exponential curves for different initial values of c. All curves
+
+increase over time.
+
+--------------------------------------------------
+Extracted Text 9:
+(B) Exponential Decay (k < 0)
+
+* Consider the equation:
+
+ale
+
+= -0.2y
+
+© The general solution is:
+y= ce 0%
+© This describes exponential decay, meaning y decreases over time. As t increases, y approaches
+
+zero.
+© Application: This models radioactive decay, cooling processes, and depreciation of assets.
+
+© Graph (Fig. 48): Shows curves that start at different initial values and decay toward zero as time
+progresses.
+
+Key Takeaways
+© If k > 0, the function grows exponentially.
+© If k <0, the function decays exponentially.
+
+* The graphs illustrate how solutions behave for different initial values.
+
+This concept is widely used in science, economics, and engineering.
+
+--------------------------------------------------
+Extracted Text 10:
+EXAMPLE 4 _ Initial Value Problem
+
+Solve the value problem
+
+3y, (0) = 5.7.
+
+Solution. The general solution is y(x) = ¢ Example 3. From this solution and the initial condition
+we obtain y(0) = ce? = c = 5.7. Hence the initial value problem has the solution y(x) = 5.7e**. This is a
+particular solution. a
+
+
+--------------------------------------------------
+Extracted Text 11:
+This is an initial value problem (IVP) that involves solving a first-order differential equation with a given
+initial condition.
+
+Given Problem:
+dy _ _
+ae 8h 40) = 5.7
+
+Step 1: Solve the Differential Equation
+
+This is a separable differential equation. We rewrite it as:
+
+4 — sae
+Integrating both sides:
+[= [sae
+y
+In|y| = 32+C
+Exponentiating both sides:
+y= PtC = Cee
+Let ¢ = e© (where cis an arbitrary constant):
+y= ce
+
+This is the general solution of the differential equation.
+
+--------------------------------------------------
+Extracted Text 12:
+Step 2: Apply Initial Condition y(0) = 5.7
+Substituting @ = 0 and y(0) = 5.7:
+5.7 = ce
+5.7=ce°=e
+So, ¢ = 5.7.
+Step 3: Obtain the Particular Solution
+Substituting c = 5.7 into the general solution:
+y(z) = 5.7e*
+Conclusion
+The particular solution to the given initial value problem is:
+y(z) = 5.7e*
+
+This solution satisfies both the differential equation and the initial condition.
+
+--------------------------------------------------
+Extracted Text 13:
+Radioactivity. Exponential Decay
+
+Given an amount of a radioactive substance, say, 0.5 g (gram), find the amount present at any later time.
+Physical Information. Experiments show that at each instant a radioactive substance decomposes—and is thus
+decaying in time—proportional to the amount of substance present.
+
+Step 1. Setting up a mathematical model of the physical process. Denote by y(t) the amount of substance still
+present at any time f. By the physical law, the time rate of change y'(t) = dy/dr is proportional to y(#). This
+gives the first-order ODE
+
+dy
+
+6)
+(6) a
+
+why
+
+where the constant k is positive, so that, because of the minus, we do get decay (as in [B] of Example 3).
+‘The value of k is known from experiments for various radioactive substances (e.g., k = 1.4- 1071! sec},
+approximately, for radium 73gRa).
+
+Now the given initial amount is 0.5 g, and we can call the corresponding instant ¢ = 0. Then we have the
+initial condition (0) = 0.5. This is the instant at which our observation of the process begins. It motivates
+the term initial condition (which, however, is also used when the independent variable is not time or when
+we choose af other than t = 0). Hence the mathematical model of the physical process is the initial value
+problem
+
+[) (0) = 0.5.
+
+
+--------------------------------------------------
+Extracted Text 14:
+Step 2. Mathematical solution. As in (B) of Example 3 we conclude that the ODE (6) models exponential decay
+and has the general solution (with arbitrary constant c but definite given k)
+
+(8) y(t) = ce“
+
+‘We now determine c by using the initial cor
+the particular solution governing our proce:
+
+0.5. Hence
+
+ion, Since y(0) = c from (8), this gives y(0) =
+s (cf. Fig. 5)
+
+9) y(t) = 0.5e™ (k> 0).
+
+Always check your result—it may involve human or computer errors! Verify by differenti
+that your solution (9) satisfies (7) as well as y(0) = 0.5:
+
+Hion (chain rule!)
+
+a
+2 = -0.5ke7 = —k-0.5e7 = -ky, (0) = 0.5e° = 0.5.
+
+Step 3. Interpretation of result. Formula (9) gives the amount of radioactive substance at time ¢. It starts from
+the correct initial amount and decreases with time because k is positive. The limit of y as t—> = is zero. ML
+
+0.5!
+
+0.4
+
+0.3
+
+0.2
+
+oO.
+
+0 a oo
+
+oO 0.5 1 1.5 2 25 3 t
+Fig. 5. Radioactivity (Exponential decay,
+y = 05e~*, with k = 15 as an example)
+
+
+--------------------------------------------------
+Extracted Text 15:
+This document explains exponential decay in the context of radioactive substances using a first-order
+differential equation.
+Step 1: Setting up the Mathematical Model
+
+* The amount of substance present at any time t is denoted as y(t).
+
+© The rate of change of y(t) is proportional to y(t) itself, leading to the differential equation:
+
+Ly
+a y
+
+where:
+* kis positive constant (decay rate).
+© The negative sign indicates decay (decrease over time).
+
+© The given initial condition is y(0) = 0.5 (starting with 0.5 grams).
+
+--------------------------------------------------
+Extracted Text 16:
+Step 2: Solving the Differential Equation
+© The general solution to #4 = —ky is:
+y(t) =ce™
+
+where ¢ is a constant determined using the initial condition.
+
+* Given y(0) = 0.5, solving for ¢:
+
+0.5 = ce? > c= 0.5
+So, the particular solution becomes:
+y(t) = 0.5e-*
+
+(This function describes the decay over time.)
+
+© Verification: Differentiating y(¢) = 0.5e~* confirms it satisfies the original equation.
+
+--------------------------------------------------
+Extracted Text 17:
+Step 3: Interpretation
+* The function y(t) = 0.5e— models radioactive decay.
+© Itstarts at y(0) = 0.5 and decreases over time.
+* Ast + co, y(t) > 0, meaning the substance will eventually vanish.
+
+© The given graph (Fig. 5) visually represents this decay for k = 1.5.
+
+This is a standard exponential decay model used in radioactivity, chemistry, and physics.
+
+--------------------------------------------------
